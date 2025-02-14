@@ -1,2 +1,5 @@
-# YOLOv8
-Detecting Brain Tumors using YOLOv8 Models
+# Detecting Brain Tumors using YOLOv8 Models
+
+University of Pennsylvania, Biomedical Data Science
+
+_Abstract_ — This project explores the use of YOLOv8, a state-of-the-art deep learning model, for object detection, image classification, and instance segmentation in medical imaging applications. Specifically, we focus on detecting and classifying brain and bone tumors using the Roboflow Brain Tumor MRI dataset. Our study evaluates five YOLOv8 model variants—YOLOv8n, YOLOv8s, YOLOv8m, YOLOv8l, and YOLOv8x—comparing their performance in terms of mean average precision (mAP50), training time, and testing accuracy. The YOLOv8n model achieves the highest accuracy (0.9) while requiring the least training time, making it the optimal choice for real-time tumor detection. The results demonstrate the potential of YOLOv8 in early tumor diagnosis, personalized treatment planning, and disease progression monitoring. Future work aims to refine the model for improved localization and classification accuracy in clinical settings.
